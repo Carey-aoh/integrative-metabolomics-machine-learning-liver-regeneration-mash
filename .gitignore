@@ -1,0 +1,13 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pdf
+*.png
+*.jpg
+/data/
+/result/
+/temp/
